@@ -42,7 +42,7 @@ This project is a simple e-commerce web application built using **HTML**, **CSS*
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-app.git
+   https://ibrahimmahmoud2000.github.io/Shopping-Cart/
    ```
 2. Open the project folder.
 3. Launch the `index.html` file in your preferred browser.
